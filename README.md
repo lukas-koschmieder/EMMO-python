@@ -1,5 +1,5 @@
-emmo - Python package providing an API to Euroean Materials Modelling Ontology (EMMO)
-=====================================================================================
+emmo-python - Python API for the Euroean Materials & Modelling Ontology (EMMO)
+==============================================================================
 This package is based on [Owlready2] and provides an intuitive
 representation of EMMO in Python.
 
